@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is xDavide9 and I am an 19 years old software developer
+My name is xDavide9 and I am a 19 years old software developer
 
 ⭐ Always chase your passions ⭐
 
