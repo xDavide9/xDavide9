@@ -4,7 +4,7 @@ My name is xDavide9 and I am a 19 years old software developer
 
 ⭐ Always chase your passions ⭐
 
-<a href="https://linktr.ee/xdavide9"> Contact me </a>
+<a href="https://www.linktr.ee/xdavide99"> Contact me </a>
 
 <hr>
 
