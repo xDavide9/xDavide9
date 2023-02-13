@@ -1,6 +1,7 @@
 # Hi there 👋
 
-My name is Davide and I'm a Computer Engeneering Student based in Italy.
+My name is Davide and I'm a Computer Engeneering Student based in Italy.  
+
 Here I code different type of things as I not really sure what I am really into (oh except... backend > frontend).
 
 ⭐ Always chase your passions ⭐
