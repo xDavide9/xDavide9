@@ -8,8 +8,4 @@ Here I code different type of things as I am not really sure what I am really in
 
 <a href="https://www.linktr.ee/xdavide99"> Contact me </a>
 
-<hr>
-
-![pic](./smallkillua.jpg)
-
 > Discord: xDavide9#1490
