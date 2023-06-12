@@ -2,9 +2,11 @@
 
 My name is Davide and I'm a Computer Engeneering Student based in Italy.  
 
-Here I code different type of things as I am not really sure what I am really into (oh except... backend > frontend).
+My main focus is on backend techonologies such as the Spring framework (Java), databases (PostgreSQL, MySQL, noSQL) but I'm also familiar with Python, C and frontend techonologies (React, javascript in general). On the devops side I have experience with the services offered by AWS.
 
-⭐ Always chase your passions ⭐
+⭐ Always chase your passions ⭐ ,
+
+is my motto because it makes me feel a sense of accomplishment.
 
 <a href="https://www.linktr.ee/xdavide99"> Contact me </a>
 
